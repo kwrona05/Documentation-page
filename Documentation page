@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main id="main-doc">
+      <section class="main-section" id="header"><header id="s1"><h1>Fast food- nightmare or a dream?</h1></header>
+      <p></p>
+      <p></p>
+      <code></code>
+      </section>
+      <section class="main-section" id="s2"><header id="header"><h2>Three pros of fastfood</h2></header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      </section>
+      <section class="main-section" id="header"><header id="s3"><h2>Three cons of fastfood</h2></header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      </section>
+      <section class="main-section" id="header"><header id="s4"><h2>Medical point of view</h2></header>
+      <p></p>
+      <p></p>
+      <code></code>
+      </section>
+      <section class="main-section" id="header"><header id="s5"><h2>My opinion about fastfood</h2></header>
+      <p></p>
+      <p></p>
+      <code></code>
+      </section>
+      <nav id="navbar">
+        <header><h2>The best fastfoods</h2></header>
+
+      </nav>
+    </main>
+  </body>
+</html>
