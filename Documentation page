@@ -39,11 +39,11 @@
       <nav id="navbar">
         <header id="s6">Is it worth to eat fastfood</header>
         <p> The main problem with fastfood is their consequences for ours health. Read more about it 
-            <a class="nav-link" href="s4">Medical point of view</a></p>
-        <li><a class="nav-link" href="s3">Three cons of fastfood</a></li>
-        <li><a class="nav-link" href="s5">My opinion about fastfood</a></li>
-        <li><a class="nav-link" href="s6">Is it worth to eat fastfood</a></li>
-        <li><a class="nav-link" href="s2">Three pros of fastfood</a></li>
+            <a class="nav-link" href="#s4">Medical point of view</a></p>
+        <a class="nav-link" href="#s3">Three cons of fastfood</a>
+        <a class="nav-link" href="#s5">My opinion about fastfood</a>
+        <a class="nav-link" href="#s5">My opinion about fastfood</a>
+        <a class="nav-link" href="#s2">Three pros of fastfood</a>
         </nav>
       </section>
        
